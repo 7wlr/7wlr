@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=7wlr&color=blueviolet&style=flat-square)  
 [![GitHub Followers](https://img.shields.io/github/followers/7wlr?color=green&style=flat-square)](https://github.com/7wlr?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/7wlr?color=yellow&style=flat-square)](https://github.com/WLR-CLIENT)
+[![GitHub Stars](https://img.shields.io/github/stars/7wlr?color=yellow&style=flat-square)](https://github.com/7wlr)
 
 ## 🛠️ What I Use
 ### 💻 Languages
